@@ -1,0 +1,3 @@
+C:/Users/YITAN/OneDrive/Escritorio/PolePositionCE-YoniBranch2/PolePosition/Cliente/cmake-build-debug-sfml/CMakeFiles/ClienteCliente.dir
+C:/Users/YITAN/OneDrive/Escritorio/PolePositionCE-YoniBranch2/PolePosition/Cliente/cmake-build-debug-sfml/CMakeFiles/edit_cache.dir
+C:/Users/YITAN/OneDrive/Escritorio/PolePositionCE-YoniBranch2/PolePosition/Cliente/cmake-build-debug-sfml/CMakeFiles/rebuild_cache.dir

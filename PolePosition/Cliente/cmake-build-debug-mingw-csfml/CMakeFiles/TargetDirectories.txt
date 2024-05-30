@@ -1,0 +1,3 @@
+C:/Users/killt/Desktop/PruebaConexion/PolePositionCE/PolePosition/Cliente/cmake-build-debug-mingw-csfml/CMakeFiles/ClienteCliente.dir
+C:/Users/killt/Desktop/PruebaConexion/PolePositionCE/PolePosition/Cliente/cmake-build-debug-mingw-csfml/CMakeFiles/edit_cache.dir
+C:/Users/killt/Desktop/PruebaConexion/PolePositionCE/PolePosition/Cliente/cmake-build-debug-mingw-csfml/CMakeFiles/rebuild_cache.dir

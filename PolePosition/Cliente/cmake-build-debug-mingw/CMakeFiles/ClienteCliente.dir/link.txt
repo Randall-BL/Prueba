@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\ClienteCliente.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\ClienteCliente.dir/objects.a @CMakeFiles\ClienteCliente.dir\objects1.rsp
+C:\msys64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ClienteCliente.dir/objects.a -Wl,--no-whole-archive -o ClienteCliente.exe -Wl,--out-implib,libClienteCliente.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ClienteCliente.dir\linkLibs.rsp
